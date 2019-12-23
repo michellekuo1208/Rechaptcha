@@ -8,6 +8,7 @@ var config = {
     storageBucket: "ncut-20191222.appspot.com",
     messagingSenderId: "937416393167"
 
+
 };
 firebase.initializeApp(config);
 
